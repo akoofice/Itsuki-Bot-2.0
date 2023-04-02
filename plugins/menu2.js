@@ -29,7 +29,7 @@ let tags = {
 const defaultMenu = {
   before: `
 「 *MENU ALL* 」
-☂︎ *Bot Name:* ${wm}
+☂︎ *Bot Name:* Mahiro-MD
 ☂︎ *Lib*: Baileys-MD
 ☂︎ *${Object.keys(global.db.data.users).length}* *Pengguna*
 ☂︎ *Prefix:* [. / #]
