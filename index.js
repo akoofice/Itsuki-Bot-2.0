@@ -13,7 +13,7 @@ CFonts.say('BOT BY\n AKO', {
   colors: ['blueBright','yellowBright'],                                        font: 'block',
   align: 'center',
 })
-CFonts.say(`BY HYZER OFFICIAL`, {                                            
+CFonts.say(`BY AKO OFFICE`, {                                            
 colors: ['yellow'],                                                           
 font: 'console',                                                              align: 'center',
 })
